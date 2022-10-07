@@ -1,0 +1,1 @@
+sensVal = constrain(sensVal, 10, 150);  // limits range of sensor values to between 10 and 150
